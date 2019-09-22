@@ -5,12 +5,75 @@
     <link>https://jyotikrd.github.io/publication/</link>
       <atom:link href="https://jyotikrd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jyotikrd.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://jyotikrd.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>FPGA-based Distributed Edge Training of SVM</title>
+      <link>https://jyotikrd.github.io/publication/fpga/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/publication/fpga/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Communication-Efficient Algorithm for Distributed Support Vector Machine Training</title>
+      <link>https://jyotikrd.github.io/publication/tpds/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/publication/tpds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ConvLight: A Convolutional Accelerator with Memristor Integrated Photonic Computing</title>
+      <link>https://jyotikrd.github.io/publication/hipc/</link>
+      <pubDate>Tue, 19 Dec 2017 23:47:11 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/hipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed QR Decomposition Framework for Training Support Vector Machines</title>
+      <link>https://jyotikrd.github.io/publication/icdcs/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/publication/icdcs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence</title>
+      <link>https://jyotikrd.github.io/publication/ipdps/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/ipdps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A density based method for automatic hairstyle discovery and recognition</title>
+      <link>https://jyotikrd.github.io/publication/ncvpripg/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/ncvpripg/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

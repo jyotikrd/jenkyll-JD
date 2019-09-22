@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | JD</title>
+    <link>https://jyotikrd.github.io/publication_types/2/</link>
+      <atom:link href="https://jyotikrd.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jyotikrd.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://jyotikrd.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Fast and Communication-Efficient Algorithm for Distributed Support Vector Machine Training</title>
+      <link>https://jyotikrd.github.io/publication/tpds/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/publication/tpds/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dharanidhar Dang | JD</title>
+    <link>https://jyotikrd.github.io/authors/dharanidhar-dang/</link>
+      <atom:link href="https://jyotikrd.github.io/authors/dharanidhar-dang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dharanidhar Dang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Tue, 19 Dec 2017 23:47:11 -0500</lastBuildDate>
+    <image>
+      <url>https://jyotikrd.github.io/img/icon-192.png</url>
+      <title>Dharanidhar Dang</title>
+      <link>https://jyotikrd.github.io/authors/dharanidhar-dang/</link>
+    </image>
+    
+    <item>
+      <title>ConvLight: A Convolutional Accelerator with Memristor Integrated Photonic Computing</title>
+      <link>https://jyotikrd.github.io/publication/hipc/</link>
+      <pubDate>Tue, 19 Dec 2017 23:47:11 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/hipc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

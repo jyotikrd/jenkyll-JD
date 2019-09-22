@@ -5,7 +5,7 @@
     <link>https://jyotikrd.github.io/authors/</link>
       <atom:link href="https://jyotikrd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jyotikrd.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,114 @@
     <item>
       <title></title>
       <link>https://jyotikrd.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://jyotikrd.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Jyotikrishna Dass is a Ph.D. Candidate in Computer Engineering at Embedded Systems &amp;amp; Codesign Lab in Texas A&amp;amp;M University. He is advised by Prof. Rabi Mahapatra. His dissertation focuses on distributed training of large-scale machine learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Rabi Mahapatra</title>
+      <link>https://jyotikrd.github.io/authors/rabi-mahapatra/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/authors/rabi-mahapatra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivek Sarin</title>
+      <link>https://jyotikrd.github.io/authors/vivek-sarin/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/authors/vivek-sarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yashwardhan Narawane</title>
+      <link>https://jyotikrd.github.io/authors/yashwardhan-narawane/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/authors/yashwardhan-narawane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dharanidhar Dang</title>
+      <link>https://jyotikrd.github.io/authors/dharanidhar-dang/</link>
+      <pubDate>Tue, 19 Dec 2017 23:47:11 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/dharanidhar-dang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. N. S. Prithvi Sakuru</title>
+      <link>https://jyotikrd.github.io/authors/v.-n.-s.-prithvi-sakuru/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/authors/v.-n.-s.-prithvi-sakuru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jyoitkrishna Dass</title>
+      <link>https://jyotikrd.github.io/authors/jyoitkrishna-dass/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/jyoitkrishna-dass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kooktae Li</title>
+      <link>https://jyotikrd.github.io/authors/kooktae-li/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/kooktae-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raktim Bhattacharya</title>
+      <link>https://jyotikrd.github.io/authors/raktim-bhattacharya/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/raktim-bhattacharya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V.N.S. Prithvi Sakuru</title>
+      <link>https://jyotikrd.github.io/authors/v.n.s.-prithvi-sakuru/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/v.n.s.-prithvi-sakuru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehtesham Hassan</title>
+      <link>https://jyotikrd.github.io/authors/ehtesham-hassan/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/ehtesham-hassan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiranmay Ghosh</title>
+      <link>https://jyotikrd.github.io/authors/hiranmay-ghosh/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/hiranmay-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jyotikrishna Dass</title>
+      <link>https://jyotikrd.github.io/authors/jyotikrishna-dass/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/jyotikrishna-dass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monika Sharma</title>
+      <link>https://jyotikrd.github.io/authors/monika-sharma/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/authors/monika-sharma/</guid>
+      <description></description>
     </item>
     
   </channel>

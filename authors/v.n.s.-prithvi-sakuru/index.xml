@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V.N.S. Prithvi Sakuru | JD</title>
+    <link>https://jyotikrd.github.io/authors/v.n.s.-prithvi-sakuru/</link>
+      <atom:link href="https://jyotikrd.github.io/authors/v.n.s.-prithvi-sakuru/index.xml" rel="self" type="application/rss+xml" />
+    <description>V.N.S. Prithvi Sakuru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Wed, 21 Sep 2016 21:34:06 -0500</lastBuildDate>
+    <image>
+      <url>https://jyotikrd.github.io/img/icon-192.png</url>
+      <title>V.N.S. Prithvi Sakuru</title>
+      <link>https://jyotikrd.github.io/authors/v.n.s.-prithvi-sakuru/</link>
+    </image>
+    
+    <item>
+      <title>A Relaxed Synchronization Approach for Solving Parallel Quadratic Programming Problems with Guaranteed Convergence</title>
+      <link>https://jyotikrd.github.io/publication/ipdps/</link>
+      <pubDate>Wed, 21 Sep 2016 21:34:06 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/ipdps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

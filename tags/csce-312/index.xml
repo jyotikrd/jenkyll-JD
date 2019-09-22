@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSCE 312 | JD</title>
+    <link>https://jyotikrd.github.io/tags/csce-312/</link>
+      <atom:link href="https://jyotikrd.github.io/tags/csce-312/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSCE 312</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jyotikrd.github.io/img/icon-192.png</url>
+      <title>CSCE 312</title>
+      <link>https://jyotikrd.github.io/tags/csce-312/</link>
+    </image>
+    
+    <item>
+      <title>CSCE 312</title>
+      <link>https://jyotikrd.github.io/project/csce312/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/project/csce312/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

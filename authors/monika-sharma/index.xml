@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monika Sharma | JD</title>
+    <link>https://jyotikrd.github.io/authors/monika-sharma/</link>
+      <atom:link href="https://jyotikrd.github.io/authors/monika-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monika Sharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Wed, 18 Dec 2013 21:33:25 -0500</lastBuildDate>
+    <image>
+      <url>https://jyotikrd.github.io/img/icon-192.png</url>
+      <title>Monika Sharma</title>
+      <link>https://jyotikrd.github.io/authors/monika-sharma/</link>
+    </image>
+    
+    <item>
+      <title>A density based method for automatic hairstyle discovery and recognition</title>
+      <link>https://jyotikrd.github.io/publication/ncvpripg/</link>
+      <pubDate>Wed, 18 Dec 2013 21:33:25 -0500</pubDate>
+      <guid>https://jyotikrd.github.io/publication/ncvpripg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

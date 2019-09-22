@@ -5,12 +5,60 @@
     <link>https://jyotikrd.github.io/tags/</link>
       <atom:link href="https://jyotikrd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jyotikrishna Dass 2019</copyright><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jyotikrd.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://jyotikrd.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://jyotikrd.github.io/tags/source-themes/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSCE 111</title>
+      <link>https://jyotikrd.github.io/tags/csce-111/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/csce-111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSCE 121</title>
+      <link>https://jyotikrd.github.io/tags/csce-121/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/csce-121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSCE 206</title>
+      <link>https://jyotikrd.github.io/tags/csce-206/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/csce-206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSCE 312</title>
+      <link>https://jyotikrd.github.io/tags/csce-312/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/csce-312/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://jyotikrd.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jyotikrd.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
